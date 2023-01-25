@@ -1,3 +1,7 @@
+Google Analytics Capstone Project using COVID-19 data
+
+This Case Study was completed as part of the Google Data Analytics Professional Certificate.
+
 1. Objective (Ask Phase)
 
 To analyze the impact of COVID-19 on different countries, including the effects on wealth, health conditions, and government restrictions.
