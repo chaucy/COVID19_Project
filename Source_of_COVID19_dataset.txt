@@ -1,0 +1,3 @@
+https://ourworldindata.org/covid-deaths
+
+click: 'Download the complete Our World in Data COVID-19 dataset'
