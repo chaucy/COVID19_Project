@@ -19,5 +19,6 @@ The data was cleaned and organized in a structured manner using T-SQL scripts. A
 In this phase, queries were created to uncover trends and relationships in the data, such as the relationship between wealth and death rate, the impact of underlying health conditions on COVID-19, and the relationship between government restrictions and the spread of the virus. The results were then visualized in tables and charts to aid in understanding the findings.
 
 5. Share Phase
+
 Visualisations were created using Tableau. 
 Published here: https://public.tableau.com/app/profile/ccystats/viz/COVID19project_16746725905160/G7vsChinaDeathCountbetween2020-2023?publish=yes 
