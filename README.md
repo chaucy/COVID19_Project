@@ -8,7 +8,7 @@ To analyze the impact of COVID-19 on different countries, including the effects 
 
 2. Prepare Phase
 
-The data was obtained from the Our World in Data website (https://ourworldindata.org/covid-deaths ) . It was organized by country and date, and was assumed to be credible since it was compiled by University of Oxford.
+The data was obtained from the Our World in Data website (https://ourworldindata.org/covid-deaths). It was organized by country and date, and was assumed to be credible since it was compiled by University of Oxford.
 
 3. Process Phase
 
@@ -19,4 +19,5 @@ The data was cleaned and organized in a structured manner using T-SQL scripts. A
 In this phase, queries were created to uncover trends and relationships in the data, such as the relationship between wealth and death rate, the impact of underlying health conditions on COVID-19, and the relationship between government restrictions and the spread of the virus. The results were then visualized in tables and charts to aid in understanding the findings.
 
 5. Share Phase
-Visualisations were created using Tableau. Published here:https://public.tableau.com/app/profile/ccystats/viz/COVID19project_16746725905160/G7vsChinaDeathCountbetween2020-2023?publish=yes 
+Visualisations were created using Tableau. 
+Published here: https://public.tableau.com/app/profile/ccystats/viz/COVID19project_16746725905160/G7vsChinaDeathCountbetween2020-2023?publish=yes 
