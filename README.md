@@ -1,4 +1,4 @@
-Google Analytics Capstone Project using COVID-19 data
+Google Analytics Capstone Project using COVID-19 data from 2020 to 2023 JAN
 
 This Case Study was completed as part of the Google Data Analytics Professional Certificate.
 
