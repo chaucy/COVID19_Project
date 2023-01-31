@@ -1,24 +1,19 @@
-Google Analytics Capstone Project using COVID-19 data from 2020 to 2023 JAN.
+Google Analytics Capstone Project: COVID-19 Data (2020-2023 JAN)
 
-This Case Study was completed as part of the Google Data Analytics Professional Certificate.
+1. Objective
+The objective of this project was to analyze the impact of COVID-19 on different countries with a focus on the effects on wealth, health conditions, and government restrictions.
 
-1. Objective (Ask Phase)
+2. Data Preparation
+The data for this project was sourced from the Our World in Data website (https://ourworldindata.org/covid-deaths) and was organized by country and date. The data was assumed to be credible as it was compiled by the University of Oxford (Oxford Martin School).
 
-To analyze the impact of COVID-19 on different countries, including the effects on wealth, health conditions, and government restrictions.
+3. Data Processing
+The data was cleaned and organized using T-SQL scripts. Missing or inconsistent data was marked for exclusion from the Tableau visualization graph. A full description of the data processing can be found in the SQL code files.
 
-2. Prepare Phase
+4. Data Analysis
+Queries were created to uncover trends and relationships in the data, including the relationship between wealth and death rate, the impact of underlying health conditions on COVID-19, and the relationship between government restrictions and the spread of the virus. The results were then visualized using tables and charts to aid in understanding the findings.
 
-The data was obtained from the Our World in Data website (https://ourworldindata.org/covid-deaths). It was organized by country and date, and was assumed to be credible since it was compiled by University of Oxford (Oxford Martin School).
+5. Visualization and Publication
+The findings were visualized using Tableau and published at https://public.tableau.com/app/profile/ccystats/viz/COVID19projectPublic/WorldAVGFatalityrate_1. All visualizations were included in a Google Slides presentation.
 
-3. Process Phase
-
-The data was cleaned and organized in a structured manner using T-SQL scripts. Any missing or inconsistent data was handled and marked for exclusion from the Tableau visualization graph. A full description of the data processing is described in the SQL code files.
-
-4. Analyze Phase
-
-In this phase, queries were created to uncover trends and relationships in the data, such as the relationship between wealth and death rate, the impact of underlying health conditions on COVID-19, and the relationship between government restrictions and the spread of the virus. The results were then visualized in tables and charts to aid in understanding the findings.
-
-5. Share Phase
-
-Visualisations were created using Tableau. 
-Published here: https://public.tableau.com/app/profile/ccystats/viz/COVID19projectPublic/WorldAVGFatalityrate_1
+6. Sharing of Results
+The Google Slides presentation can be accessed at https://docs.google.com/presentation/d/15akLI-eSxc7_K1GsMrq2KU-3gF42QSZJ2M5z3vUMuE0/edit?usp=sharing.
