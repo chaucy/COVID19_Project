@@ -21,4 +21,4 @@ In this phase, queries were created to uncover trends and relationships in the d
 5. Share Phase
 
 Visualisations were created using Tableau. 
-Published here: https://public.tableau.com/app/profile/ccystats/viz/COVID19project_16746725905160/G7vsChinaDeathCountbetween2020-2023?publish=yes 
+Published here: https://public.tableau.com/app/profile/ccystats/viz/COVID19projectPublic/WorldAVGFatalityrate_1
