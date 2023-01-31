@@ -8,7 +8,7 @@ To analyze the impact of COVID-19 on different countries, including the effects 
 
 2. Prepare Phase
 
-The data was obtained from the Our World in Data website (https://ourworldindata.org/covid-deaths). It was organized by country and date, and was assumed to be credible since it was compiled by University of Oxford.
+The data was obtained from the Our World in Data website (https://ourworldindata.org/covid-deaths). It was organized by country and date, and was assumed to be credible since it was compiled by University of Oxford (Oxford Martin School).
 
 3. Process Phase
 
