@@ -18,7 +18,7 @@ Queries were created to uncover trends and relationships in the data, including 
 
 5. Visualization and Publication
 
-The findings were visualized using Tableau and published at https://public.tableau.com/app/profile/ccystats/viz/COVID19projectPublic/WorldAVGFatalityrate_1. 
+The findings were visualized using Tableau and published at https://public.tableau.com/app/profile/ccystats/viz/COVID19projectPublic/IncomeWorldAVGFatalityrate?publish=yes 
 
 All visualizations were included in a Google Slides presentation.
 
